@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.b6027cec.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.9a0eeb46.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.9a0eeb46.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.0a4cd24d.js",
+    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.0a4cd24d.js.map",
+    "static/js/2.61d3d37c.chunk.js": "/Portfolio-Website/static/js/2.61d3d37c.chunk.js",
+    "static/js/2.61d3d37c.chunk.js.map": "/Portfolio-Website/static/js/2.61d3d37c.chunk.js.map",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/css/main.b6027cec.chunk.css.map": "/Portfolio-Website/static/css/main.b6027cec.chunk.css.map",
+    "static/js/2.61d3d37c.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.61d3d37c.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/Portfolio-Website/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/Portfolio-Website/static/media/award.a796a64f.png",
+    "static/media/email.a49e0158.png": "/Portfolio-Website/static/media/email.a49e0158.png",
+    "static/media/moon.3bea3d39.png": "/Portfolio-Website/static/media/moon.3bea3d39.png",
+    "static/media/pexels-designecologist-1779487.816c9c37.jpg": "/Portfolio-Website/static/media/pexels-designecologist-1779487.816c9c37.jpg",
+    "static/media/pexels-kaboompics-com-6444.3c13aaa1.jpg": "/Portfolio-Website/static/media/pexels-kaboompics-com-6444.3c13aaa1.jpg",
+    "static/media/pexels-luis-gomes-546819.e24bf3cb.jpg": "/Portfolio-Website/static/media/pexels-luis-gomes-546819.e24bf3cb.jpg",
+    "static/media/pexels-miguel-á-padriñán-1591060.bce0978e.jpg": "/Portfolio-Website/static/media/pexels-miguel-á-padriñán-1591060.bce0978e.jpg",
+    "static/media/pexels-negative-space-34125.abbd41cb.jpg": "/Portfolio-Website/static/media/pexels-negative-space-34125.abbd41cb.jpg",
+    "static/media/pexels-pixabay-270637.f41b7654.jpg": "/Portfolio-Website/static/media/pexels-pixabay-270637.f41b7654.jpg",
+    "static/media/phone.d90a6d23.png": "/Portfolio-Website/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/Portfolio-Website/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a4cd24d.js",
+    "static/js/2.61d3d37c.chunk.js",
+    "static/css/main.b6027cec.chunk.css",
+    "static/js/main.9a0eeb46.chunk.js"
+  ]
+}
